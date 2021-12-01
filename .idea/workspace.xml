@@ -4,11 +4,6 @@
     <list default="true" id="cd5eafb5-49ba-40d8-bcf1-3c22a02efb9b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../Customer-Service" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/asmaa/customerservice/CustomerServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/asmaa/customerservice/CustomerServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/asmaa/customerservice/CustomerServiceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/asmaa/customerservice/CustomerServiceApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gateway/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../gateway/src/main/java/com/asmaa/gateway/GatewayApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../gateway/src/main/java/com/asmaa/gateway/GatewayApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../gateway/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../gateway/src/main/resources/application.properties" afterDir="false" />
     </list>
@@ -53,7 +48,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gateway" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
@@ -106,7 +101,9 @@
       <workItem from="1637410397196" duration="42000" />
       <workItem from="1637411601058" duration="1162000" />
       <workItem from="1637414259136" duration="4612000" />
-      <workItem from="1637938292112" duration="7161000" />
+      <workItem from="1637938292112" duration="7207000" />
+      <workItem from="1638027093033" duration="1234000" />
+      <workItem from="1638269172824" duration="8419000" />
     </task>
     <servers />
   </component>
